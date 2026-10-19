@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+    <rect x="0" y="0" width="256" height="256" rx="64" ry="64" fill="#2563EB"/>
+    <!-- Baseline -->
+    <line x1="66" y1="186" x2="190" y2="186" stroke="#FFFFFF" stroke-width="11" stroke-linecap="round"/>
+    <!-- Bar 1 -->
+    <rect x="78" y="144" width="26" height="42" rx="7" fill="none" stroke="#FFFFFF" stroke-width="10"/>
+    <!-- Bar 2 -->
+    <rect x="115" y="110" width="26" height="76" rx="7" fill="none" stroke="#FFFFFF" stroke-width="10"/>
+    <!-- Bar 3 -->
+    <rect x="152" y="74" width="26" height="112" rx="7" fill="none" stroke="#FFFFFF" stroke-width="10"/>
+  </svg>

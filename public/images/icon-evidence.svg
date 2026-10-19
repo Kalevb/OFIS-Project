@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+    <rect x="0" y="0" width="256" height="256" rx="64" ry="64" fill="#1E3A8A"/>
+    <!-- Outer Sheet -->
+    <path d="M 88 60 L 142 60 L 178 96 L 178 184 C 178 191, 172 196, 164 196 L 88 196 C 80 196, 74 191, 74 184 L 74 72 C 74 65, 80 60, 88 60 Z" fill="#FFFFFF"/>
+    <!-- Fold flap in navy -->
+    <path d="M 138 60 L 138 98 C 138 102, 142 106, 146 106 L 178 106 Z" fill="#1E3A8A"/>
+    <!-- Sun/Circle cutout -->
+    <circle cx="114" cy="116" r="13" fill="#1E3A8A"/>
+    <!-- Mountain cutout -->
+    <path d="M 84 172 L 120 128 L 144 154 L 160 134 L 178 156 L 178 172 Z" fill="#1E3A8A"/>
+  </svg>

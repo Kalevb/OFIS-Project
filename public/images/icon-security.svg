@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+    <rect x="0" y="0" width="256" height="256" rx="64" ry="64" fill="#1E3A8A"/>
+    <!-- Solid Shield -->
+    <path d="M 128 54 C 160 54, 188 64, 190 74 C 190 140, 168 186, 128 202 C 88 186, 66 140, 66 74 C 68 64, 96 54, 128 54 Z" fill="#FFFFFF"/>
+    <!-- Keyhole in navy -->
+    <circle cx="128" cy="116" r="14" fill="#1E3A8A"/>
+    <path d="M 122 118 L 134 118 L 138 152 C 138 154, 136 156, 134 156 L 122 156 C 120 156, 118 154, 118 152 Z" fill="#1E3A8A"/>
+  </svg>

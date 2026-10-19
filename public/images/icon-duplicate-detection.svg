@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+    <rect x="0" y="0" width="256" height="256" rx="64" ry="64" fill="#DC2626"/>
+    <!-- Top Node -->
+    <rect x="109" y="70" width="38" height="32" rx="10" fill="none" stroke="#FFFFFF" stroke-width="12" stroke-linejoin="round"/>
+    <!-- Stem down -->
+    <line x1="128" y1="102" x2="128" y2="134" stroke="#FFFFFF" stroke-width="12" stroke-linecap="round"/>
+    <!-- Horizontal Crossbar -->
+    <line x1="72" y1="134" x2="184" y2="134" stroke="#FFFFFF" stroke-width="12" stroke-linecap="round"/>
+    <!-- Child connectors -->
+    <line x1="72" y1="134" x2="72" y2="148" stroke="#FFFFFF" stroke-width="12" stroke-linecap="round"/>
+    <line x1="128" y1="134" x2="128" y2="148" stroke="#FFFFFF" stroke-width="12" stroke-linecap="round"/>
+    <line x1="184" y1="134" x2="184" y2="148" stroke="#FFFFFF" stroke-width="12" stroke-linecap="round"/>
+    <!-- Child 1 -->
+    <rect x="58" y="148" width="28" height="26" rx="9" fill="none" stroke="#FFFFFF" stroke-width="12" stroke-linejoin="round"/>
+    <!-- Child 2 -->
+    <rect x="114" y="148" width="28" height="26" rx="9" fill="none" stroke="#FFFFFF" stroke-width="12" stroke-linejoin="round"/>
+    <!-- Child 3 -->
+    <rect x="170" y="148" width="28" height="26" rx="9" fill="none" stroke="#FFFFFF" stroke-width="12" stroke-linejoin="round"/>
+  </svg>
