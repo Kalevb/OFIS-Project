@@ -58,8 +58,7 @@
 ---
 
 ## 5. การเชื่อมต่อฐานข้อมูล Firebase (Cloud Firebase Integration)
-ระบบเชื่อมต่อโดยตรงกับโปรเจกต์ **Firebase Realtime Database** และ **Firestore** (`ofis-project-230f8`) บน Cloud แบบ Real-time:
-- ไม่จำเป็นต้องมีโฟลเดอร์ `database/` ในเครื่อง สามารถดาวน์โหลดโปรเจกต์และรัน `npm install && npm run dev` ได้ทันที
+ระบบเชื่อมต่อโดยตรงกับโปรเจกต์ **Firebase Realtime Database** และ **Firestore** (`ofis-project`) บน Cloud แบบ Real-time:
 - ข้อมูลคดี (Cases), ไทม์ไลน์ (Timeline), ผู้ใช้งาน (Users) และสถิติจะถูกซิงค์กับฐานข้อมูล Firebase อัตโนมัติ
 
 ---

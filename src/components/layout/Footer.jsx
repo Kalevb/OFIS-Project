@@ -23,17 +23,12 @@ export default function Footer() {
             <div style={{
               width: '42px',
               height: '42px',
-              borderRadius: '11px',
-              background: 'linear-gradient(135deg, #1E3A8A 0%, #2563EB 100%)',
-              color: '#ffffff',
-              fontWeight: 700,
-              fontSize: '16px',
-              display: 'flex',
-              alignItems: 'center',
-              justifyContent: 'center',
-              boxShadow: '0 4px 10px rgba(0,0,0,0.3)'
             }}>
-              OF
+              <img 
+                src="/images/logo.png" 
+                alt="OFIC Logo" 
+                style={{ width: '42px', height: '42px', borderRadius: '10px', objectFit: 'contain' }} 
+              />
             </div>
             <div>
               <strong style={{ color: '#ffffff', fontSize: '15px', display: 'block', lineHeight: 1.2 }}>
